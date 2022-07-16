@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xiaofei315
+- 👋 Hi, I’m @xiaofei
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning vue3
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me by Charlie_fly315@163.com 
 
